@@ -29,6 +29,10 @@ body{
 .panel-heading {
   background-color: $orange-sorbet;
 }
+.thanks-div {
+  background-color: $chocolate;
+  color: $whipped-cream;
+}
 .clickable-pills h2{
   color: $whipped-cream;
 }
@@ -41,9 +45,14 @@ body{
 
 #navbar a {
   color: $chocolate;
-  font-size: 18px;
-  font-weight: bolder;
 }
+#navbar a:hover{
+  background-color: $green-mint;
+}
+// Modal form background color
+// .modal-form{
+//   background-color: $green-mint;
+// }
 
 
 

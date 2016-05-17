@@ -31,6 +31,21 @@ body{
 .modal-title{
   text-align: center;
 }
+
+.panel-body{
+  text-align: center;
+  font-size: 18px;
+}
+.panel-body li{
+  list-style-type: none;
+  padding-bottom: 18px;
+}
+
+#navbar a {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
 #floating-action-button{
     font-size: 18px;
 }

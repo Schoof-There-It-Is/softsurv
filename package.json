@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "jquery": "^2.2.2"
+    "jquery": "^3.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
